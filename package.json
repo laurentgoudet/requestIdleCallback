@@ -1,6 +1,6 @@
 {
   "name": "requestidlecallback",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shims rIC in case a browser doesn't support it.",
   "main": "requestIdleCallback.js",
   "repository": {

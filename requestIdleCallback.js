@@ -28,9 +28,9 @@ window.requestIdleCallback = window.requestIdleCallback ||
         }
       });
     }, 1);
-  }
+  };
 
 window.cancelIdleCallback = window.cancelIdleCallback ||
   function (id) {
     clearTimeout(id);
-  } 
+  };
